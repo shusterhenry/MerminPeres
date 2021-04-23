@@ -1,6 +1,6 @@
 # MerminPeres
 
-This repository includes Jupyter Notebooks that porvide a quantum solution to the Mermin-Peres magic square game.
+This repository includes Jupyter Notebooks that provide a quantum solution to the Mermin-Peres magic square game.
 
 Asher Baraban and I based this project on a nature physics paper by Bravyi et al. https://www.nature.com/articles/s41567-020-0948-z#Fig2
 
